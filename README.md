@@ -20,3 +20,6 @@ Pre installed with python
 
 import lhsmdu, https://github.com/sahilm89/lhsmdu :
 pip install lhsdmu
+
+To Run the code open the Homework1.ipynb file with anaconda, https://docs.anaconda.com/anaconda/install/index.html
+Click on the kernel button and press restart and run all.
