@@ -1,6 +1,6 @@
 # Stochastic_Simulation Homework 1
 #Jop Keuning, 11014407, jop.keuning@student.uva.nl
-#Nina Wagenaar, 11326336, nina.wagenaar@live.nl
+#Nina Wagenaar, 11326336, nina_wagenaar@live.nl
 
 Required packages:
 Numpy, https://numpy.org/ :
