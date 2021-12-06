@@ -1,25 +1,11 @@
-# Stochastic_Simulation Homework 1
-#Jop Keuning, 11014407, jop.keuning@student.uva.nl
-#Nina Wagenaar, 11326336, nina_wagenaar@live.nl
+This notebook supports the labreport on Assignment 2 for the course Stochastic Simulation.
+It is assumed that the reader has numpy installed on their python distribution.
+This notebook also uses the scipy and simpy packages. 
+To install simpy follow the official instructions on: https://simpy.readthedocs.io/en/latest/simpy_intro/installation.html
+To install scipy follow the official instructions on: https://scipy.org/install/
 
-Required packages:
-Numpy, https://numpy.org/ :
-pip install numpy
+Start running the notebook on the top, preferably using the "restart the kernel" functionality.
 
-Pandas, https://pandas.pydata.org/ :
-pip install pandas
-
-Matplotlib, https://matplotlib.org/ :
-pip install matplotlib
-
-Cmath, https://docs.python.org/3/library/cmath.html :
-Pre installed with python
-
-random, https://docs.python.org/3/library/random.html :
-Pre installed with python
-
-import lhsmdu, https://github.com/sahilm89/lhsmdu :
-pip install lhsdmu
-
-To Run the code open the Homework1.ipynb file with anaconda, https://docs.anaconda.com/anaconda/install/index.html
-Click on the kernel button and press restart and run all.
+This notebook was programmed by
+Jop Keuning, student no. 11014407, e-mail jop.keuning@student.uva.nl
+Nina Wagenaar, student no. 11326336, e-mail nina.wagenaar@student.uva.nl
